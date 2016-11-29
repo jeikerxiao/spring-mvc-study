@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web-m2:war exploded">
+    <output-path>$PROJECT_DIR$/web-m2/target/web-m2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web-m2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="common-utils-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="common-utils" />
+          </element>
+          <element id="archive" name="common-third-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="common-third" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/web-m2/target/web-m2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="web-m2/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-third/common-third.iml" filepath="$PROJECT_DIR$/common-third/common-third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-demo.iml" filepath="$PROJECT_DIR$/module-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-m1/web-m1.iml" filepath="$PROJECT_DIR$/web-m1/web-m1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-m2/web-m2.iml" filepath="$PROJECT_DIR$/web-m2/web-m2.iml" />
+    </modules>
+  </component>
+</project>
